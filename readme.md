@@ -1,3 +1,4 @@
+[![images.png](https://i.postimg.cc/s272Fv8H/images.png)](https://postimg.cc/v18yfHG5)
 # Maquetación de Componente con Bootstrap
 Este proyecto contiene ejemplos de maquetación de componentes web, creados a partir de diseños de imagen y utilizando Bootstrap 5 para la estructura y el diseño responsivo.
 
@@ -22,7 +23,7 @@ Este código puede servir como un punto de partida rápido para diversos proyect
 
 Es una excelente manera de practicar y entender la distribución de elementos con CSS Grid y Flexbox dentro del ecosistema de Bootstrap.
 
->>> NOTA: Incluire progresivamente mas layouts para la disponibilidad en general.
+> NOTA: Incluire progresivamente mas layouts para la disponibilidad en general.
 
 ### Licencia
 Este proyecto está bajo la licencia MIT.
