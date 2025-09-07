@@ -1,4 +1,4 @@
-[![images.png](https://i.postimg.cc/s272Fv8H/images.png)](https://postimg.cc/v18yfHG5)
+[![images.png](https://i.postimg.cc/Hnhm8gR7/images.png)](https://postimg.cc/V0np23YY)
 # Maquetación de Componente con Bootstrap
 Este proyecto contiene ejemplos de maquetación de componentes web, creados a partir de diseños de imagen y utilizando Bootstrap 5 para la estructura y el diseño responsivo.
 
